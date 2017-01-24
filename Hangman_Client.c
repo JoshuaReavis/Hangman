@@ -1,7 +1,6 @@
-/* Regena Villaroman & Josh Reavis
- * CS 367 Program 1 Client
- * Winter 2017
- */
+// Josh Reavis
+// Winter 2017
+
 
 #include <stdio.h>
 #include <string.h>
