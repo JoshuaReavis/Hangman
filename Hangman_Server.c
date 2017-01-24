@@ -1,7 +1,5 @@
-/* Regena Villaroman & Josh Reavis
- * CS 367 Program 1 Server
- * Winter 2017
- */
+// Josh Reavis
+// Winter 2017
 
 #include <sys/types.h> 
 #include <sys/socket.h>
